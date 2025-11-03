@@ -1,0 +1,7 @@
+product_category,total_transactions,total_units,avg_price,highest_revenue
+"Beauty Products",40,46,61.623000,399.99
+Books,40,114,16.153000,130.00
+Clothing,40,145,67.536500,539.94
+Electronics,40,66,691.591500,3899.99
+"Home Appliances",40,59,320.185500,2599.98
+Sports,40,88,261.284000,1895.00
